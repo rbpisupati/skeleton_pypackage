@@ -1,2 +1,2 @@
-# pygenome
-Python API to work with genome fasta/bed/annotation
+# Skeleton for Python packages
+A simple python API package
